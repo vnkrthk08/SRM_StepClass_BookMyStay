@@ -65,11 +65,11 @@ class RoomInventory {
     }
 }
 
-public class bookmystayapp {
+ class BookMyStayapp {
     public static void main(String[] args) {
-        System.out.println("Welcome to bookmystayapp!");
+        System.out.println("Welcome to book-my-stayapp!");
         System.out.println("Hotel Booking Management System v3.0");
-        System.out.println("--------------------------------------------------");
+        System.out.println("-------------      -------------------------------------");
 
         // 1. Initialize the Centralized Inventory
         RoomInventory hotelInventory = new RoomInventory();
